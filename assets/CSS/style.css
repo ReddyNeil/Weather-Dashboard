@@ -1,0 +1,9 @@
+/* Style for clickable previous search entries */
+.previous-search {
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+
+.previous-search:hover {
+    text-decoration: underline;
+}
